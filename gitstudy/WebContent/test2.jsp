@@ -8,5 +8,6 @@
 </head>
 <body>
 <%="gitstudy2" %>
+<%="hotfix1" %>
 </body>
 </html>
