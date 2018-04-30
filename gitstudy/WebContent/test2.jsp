@@ -9,5 +9,7 @@
 <body>
 <%="gitstudy2" %>
 <%="hotfix1" %>
+<%="master1" %>
+<%="hotfix2" %>
 </body>
 </html>
