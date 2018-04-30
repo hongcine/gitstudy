@@ -11,5 +11,6 @@
 <%="hotfix1" %>
 <%="master1" %>
 <%="hotfix2" %>
+    <%="master2" %>
 </body>
 </html>
